@@ -37,7 +37,7 @@ const Hero = () => {
                         <a href="https://github.com/bharathi-ravi-123" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-accent transition-transform hover:scale-110">
                             <Github size={32} />
                         </a>
-                        <a href="www.linkedin.com/in/bharathi-r-99a400b30s596" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-accent transition-transform hover:scale-110">
+                        <a href="https://www.linkedin.com/in/bharathi-r-99a400b30s596" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-accent transition-transform hover:scale-110">
                             <Linkedin size={32} />
                         </a>
                         <a href="mailto:ravibharathi0108@gmail.com" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-accent transition-transform hover:scale-110">

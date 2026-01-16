@@ -43,7 +43,7 @@ function App() {
       <footer className="py-6 text-center text-sm text-gray-500 dark:text-gray-400 border-t border-gray-200 dark:border-gray-800">
         <p>© {new Date().getFullYear()} Bharathi R. All rights reserved.</p>
         <div className="flex justify-center space-x-4 mt-2">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary dark:hover:text-accent">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/bharathi-r-99a400b30s596" target="_blank" rel="noopener noreferrer" className="hover:text-primary dark:hover:text-accent">LinkedIn</a>
           <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary dark:hover:text-accent">GitHub</a>
           <a href="mailto:ravibharathi0108@gmail.com" className="hover:text-primary dark:hover:text-accent">Email</a>
         </div>

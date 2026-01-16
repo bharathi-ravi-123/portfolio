@@ -81,7 +81,7 @@ const Contact = () => {
                                 <a href="https://github.com/bharathi-ravi-123" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
                                     <Github size={24} />
                                 </a>
-                                <a href="www.linkedin.com/in/bharathi-r-99a400b30s596" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
+                                <a href="https://www.linkedin.com/in/bharathi-r-99a400b30s596" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
                                     <Linkedin size={24} />
                                 </a>
                             </div>
