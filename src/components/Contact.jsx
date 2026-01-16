@@ -78,10 +78,10 @@ const Contact = () => {
                         <div className="pt-8">
                             <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Follow Me</h3>
                             <div className="flex space-x-4">
-                                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
+                                <a href="https://github.com/bharathi-ravi-123" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
                                     <Github size={24} />
                                 </a>
-                                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
+                                <a href="www.linkedin.com/in/bharathi-r-99a400b30s596" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-primary hover:text-white dark:hover:bg-accent dark:hover:text-gray-900 transition-colors">
                                     <Linkedin size={24} />
                                 </a>
                             </div>

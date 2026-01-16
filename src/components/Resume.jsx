@@ -59,8 +59,8 @@ const Resume = () => {
                     <div className="w-20 h-1 bg-primary dark:bg-accent mx-auto rounded-full mb-8"></div>
 
                     <a
-                        href="/Bharathi_R_Resume.png"
-                        download="Bharathi_R_Resume.png"
+                        href="/Bharathi_R_Resume.pdf"
+                        download="Bharathi_R_Resume.pdf"
                         className="inline-flex items-center px-6 py-3 bg-primary text-white rounded-full hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
                     >
                         <Download className="mr-2" size={20} />

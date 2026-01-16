@@ -49,14 +49,14 @@ const Projects = () => {
             title: "Dashboard",
             description: "A comprehensive dashboard for data visualization.",
             tech: ["React", "Chart.js"],
-            repo: "https://github.com",
+            repo: "https://github.com/bharathi-ravi-123/dashboardrep",
             image: dashboardCover
         },
         {
             title: "Course Registration Website",
             description: "Full-stack system with auth and role-based access.",
             tech: ["Flask", "MySQL"],
-            repo: "https://github.com",
+            repo: "https://github.com/bharathi-ravi-123/webdevelopment",
             image: courseRegistrationCover
         }
     ];
